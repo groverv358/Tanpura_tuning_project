@@ -8,6 +8,8 @@ This project explores the tuning systems of the Tanpura, a classical Indian inst
 - Applies techniques like Discrete Fourier Transform (DFT) and Short-Time Fourier Transform (STFT) to extract audio features.
 - Identifies tuning keys using band-pass filtering, median filtering, and global thresholding.
 
+For detailed understanding, check out the report for this project and feel free to contact.
+
 ## Installation
 
 1. Clone the repository:
