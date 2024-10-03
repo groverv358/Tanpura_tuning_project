@@ -24,8 +24,7 @@ For detailed understanding, check out the report for this project and feel free 
 
 ## Dataset Description
 
-There are three types od data in the "Data" folder :-
-1. Mobile Tanpura Applications : There are recordings from applications such as TanpuraDroid, Bandish and Singtico. There are folders with the same name. These folders have sub-folders: SaPa, SaMa and SaNi. These names corresponds to the names of the tunings of four stringed Tanpuras. <p> SaPa is for Pa SA SA Sa, SaMa is for Ma SA SA Sa and SaNi is for Ni SA SA Sa where the each notes denotes the pitch to which the first, second, third and fourth strings are tuned. Sa, Pa, Ma and Ni are of the lower octave and SA is of the middle octave. </p> <p>The above mentioned folders contains audio recordings, each of 15 seconds length for all the keys from A to G# for all the tuning systems from each Tanpura application.</p>
-    
-2. Youtube Recordings : 
-3. OSF Database
+There are three resources of data in the "Data" folder :-
+1. <b>Mobile Tanpura Applications</b> : There are recordings from applications such as TanpuraDroid, Bandish and Singtico. There are folders with the same name. These folders have sub-folders: SaPa, SaMa and SaNi. These names corresponds to the names of the tunings of four stringed Tanpuras. <p> SaPa is for Pa SA SA Sa, SaMa is for Ma SA SA Sa and SaNi is for Ni SA SA Sa where the each notes denotes the pitch to which the first, second, third and fourth strings are tuned. Sa, Pa, Ma and Ni are of the lower octave and SA is of the middle octave. </p> <p>The above mentioned folders contains audio recordings, each of 15 seconds length for all the keys from A to G# for all the tuning systems from each Tanpura application.</p>
+2. <b>Youtube Recordings</b> : The folder named "Youtube" contains random  Tanpura recordings of each tuning system for some keys to test tout the method proposed for finding the tuning of Tanpura. These audio clips are of 55 seconds length.
+3. <b>OSF Database</b> : The folder named "OSF Database" contains the small audio clips of Tanpura from the live performance for various Ragas. These clips have been cut out of the original live performance audios. So each each of them have different durations from each each other. But each clip have at;east one cycle of string plucking
